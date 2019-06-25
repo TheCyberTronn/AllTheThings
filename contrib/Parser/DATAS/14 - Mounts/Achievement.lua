@@ -53,6 +53,7 @@ _.Mounts =
 		i(168329),	-- Mechacycle Model W
 		i(140500),	-- Mechanized Lumber Extractor
 		i(156487),	-- Nightborne Manasaber (Horde)
+		i(156881),	-- Notoroious Gladiator's Proto-Drake
 		i(161215),	-- Reins of the Obsidian Krolusk
 		i(89785),	-- Pandaren Kite (Alliance)
 		i(81559),	-- Pandaren Kite (Horde)
@@ -73,7 +74,7 @@ _.Mounts =
 		i(44842),	-- Red Dragonhawk
 		i(44160),	-- Red Proto-Drake
 		i(45802),	-- Rusted Proto-Drake
-		i(156880),	-- Sinister Gladiator's Proto-Drake
+		un(2, i(156880)),	-- Sinister Gladiator's Proto-Drake
 		i(169194),	-- Snapback Scuttler
 		i(128706),	-- Soaring Skyterror
 		i(104208),	-- Spawn of Galakras
